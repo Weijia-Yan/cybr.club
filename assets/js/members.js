@@ -37,7 +37,7 @@ const officers = [
     position: "Public Relations",
     image: "assets/img/officers/resized/weijia_yan.jpg",
     socials: {
-        linkedin: "",
+        linkedin: "www.linkedin.com/in/weijia-yan",
         github: "",
         email: "tamucybersec@gmail.com",
         website: ""
